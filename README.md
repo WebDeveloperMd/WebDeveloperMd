@@ -1,5 +1,4 @@
-<img src="(![bag banner](https://github.com/user-attachments/assets/e5e2c85d-a451-4f81-95c2-40dab749c6fc)
-">
+
 <h1 align="center">Hi 👋, I'm Masud</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
