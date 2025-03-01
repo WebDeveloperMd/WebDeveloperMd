@@ -1,4 +1,5 @@
-<img src="(https://lh3.googleusercontent.com/proxy/mOUXIE44UTWG9I_8_7k0buPVshOTuY_WHrnV3NaLJ3TJcQwOXTuiSbIe4maFp1l72VL1qMi8nTVLJIZYK9uv_M3xfNUlnGUEmpqLWlYXXr2jxkxuZvZDaCCh7D2xVd0eyppP14E-aZq8dVSXBlMMyDc-y1KCAfJq-WQ-AT7gsRi9wbV6R-pRbew)">
+<img src="(![bag banner](https://github.com/user-attachments/assets/e5e2c85d-a451-4f81-95c2-40dab749c6fc)
+">
 <h1 align="center">Hi 👋, I'm Masud</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
