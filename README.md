@@ -1,4 +1,4 @@
-<img src="[ful bc img.jpg](https://media.licdn.com/dms/image/v2/D5616AQHeecsP3TG0AQ/profile-displaybackgroundimage-shrink_350_1400/B56ZaF_4kAHsAY-/0/1746004840038?e=1751500800&v=beta&t=6VrP0zua9d2MiAE0Hh0SsLD0J5hC493kP0XPXDBFLFE)">
+<img src="[[ful bc img.jpg](https://media.licdn.com/dms/image/v2/D5616AQHeecsP3TG0AQ/profile-displaybackgroundimage-shrink_350_1400/B56ZaF_4kAHsAY-/0/1746004840038?e=1751500800&v=beta&t=6VrP0zua9d2MiAE0Hh0SsLD0J5hC493kP0XPXDBFLFE)](https://media.licdn.com/dms/image/v2/D5616AQHeecsP3TG0AQ/profile-displaybackgroundimage-shrink_350_1400/B56ZaF_4kAHsAY-/0/1746004840038?e=1751500800&v=beta&t=6VrP0zua9d2MiAE0Hh0SsLD0J5hC493kP0XPXDBFLFE)">
 <h1 align="center">Hi 👋, I'm Masud</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
